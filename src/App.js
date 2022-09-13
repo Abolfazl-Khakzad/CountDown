@@ -5,7 +5,7 @@ class App extends React.Component {
         constructor(){
             super();
             this.state ={
-                title : "count"
+                title : "timer"
             }
         }
         handleSetTitle = ()=>{
