@@ -6,7 +6,7 @@ class Timer extends React.Component {
     constructor(){
         super();
         this.state={
-        //   time : new Date().toLocaleTimeString()
+       
              basicNumber:100
         }
       }
