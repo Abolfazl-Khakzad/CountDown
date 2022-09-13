@@ -45,3 +45,14 @@
 .buttonBox{
     display: flex;
 }
+
+.resetStyle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(111, 105, 105);
+    margin-top: 10px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 6px;
+}
