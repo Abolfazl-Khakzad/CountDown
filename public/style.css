@@ -22,3 +22,26 @@
     border-radius: 50%;
     box-shadow: 0 0 50px black;
 }
+
+.startStyle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: green;
+    margin-top: 10px;
+    cursor: pointer;
+    display: inline-block;
+}
+.stopStyle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 10px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 6px;
+}
+.buttonBox{
+    display: flex;
+}
